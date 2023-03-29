@@ -25,6 +25,11 @@
   - order.number - todo pedido tem um número, este não é o id mas é um identificador único do pedido;
   - carrier - é o nome da empresa e serviço da entrega (ex: Correios - Sedex)
   - zip_from/zip_to - é o código do cep de origem e destino
+
+## Diferenciais
+- Criar um teste unitário
+- Ter admin configurado
+- Usar linux
   
 ## Itens que serão avaliados e modo de entrega
 - tempo levado para entregar;
